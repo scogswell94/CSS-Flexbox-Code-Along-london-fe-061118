@@ -15,6 +15,7 @@ header {
   background-color: blue;
   height: 80px;
   width: 100%;
+  flex-shrink: 0;
 }
 
 .main {
