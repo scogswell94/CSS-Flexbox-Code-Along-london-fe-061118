@@ -23,9 +23,14 @@ main {
   height: 100%;
 }
 
+.item {
+  
+}
+
 footer {
   background-color: red;
   height: 80px;
   width: 100%;
 }
+
 
