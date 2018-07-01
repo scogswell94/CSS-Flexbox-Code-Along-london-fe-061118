@@ -4,6 +4,9 @@ body {
   padding: 0;
 }
 
+.flex-container {
+  display: block;
+}
 header {
   background-color: blue;
   height: 100%;
